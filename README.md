@@ -2,7 +2,7 @@
 
 SITE PARA CODAR EM C++: https://wokwi.com/projects/new/arduino-uno
 
-# LINKS ÚTEIS:
+# Links Uteis:
 
 IOT – Definição e Conceitos
 Internet das Coisas (IoT): o que é, aplicações e como funciona?
@@ -33,10 +33,17 @@ https://www.youtube.com/watch?v=sv9dDtYnE1g
 
 SIMULADORES
 WOKWI https://wokwi.com/
+
 TINKERCAD https://www.tinkercad.com/
+
 PLATAFORMAS IoT
+
 Thinger.io https://thinger.io/
+
 ThingSpeak https://thingspeak.com/
+
 AWS IOT Core https://www.youtube.com/watch?v=idf-gGXvIu4
+
 AZURE IOT Central https://www.youtube.com/watch?v=jmMWel9Y3Qg
+
 IOT in Oracle Cloud https://www.youtube.com/watch?v=maKDn7j2Pl4
