@@ -25,9 +25,9 @@ void setup() {
 }
 
 void loop() {
-  ex1();
+ // ex1();
   ex2();
-  ex3();
+  //ex3();
 
 }
 
@@ -43,9 +43,25 @@ void ex1(){
 }
 
 void ex2(){
+  digitalWrite(ledRED, HIGH);
+  digitalWrite(ledGRE, LOW);
+  delay(300);
+  digitalWrite(ledRED, LOW);
+  digitalWrite(ledGRE, HIGH);
+  delay(300);
 
 }
 
 void ex3(){
+  digitalWrite(ledRED, HIGH);
+  delay(6000);
+  digitalWrite(ledRED, LOW);
+  digitalWrite(ledGRE, HIGH);
+  delay(4000);
+  digitalWrite(ledGRE, LOW);
+  digitalWrite(ledVEL, HIGH);
+  delay(1000);
+  digitalWrite(ledVEL, LOW);
+
 
 }
