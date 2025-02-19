@@ -2,6 +2,8 @@
 
 SITE PARA CODAR EM C++: https://wokwi.com/projects/new/arduino-uno
 
+<img src= "https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000">
+
 # Links Uteis:
 
 IOT – Definição e Conceitos
