@@ -1,2 +1,1 @@
-# Aula02c
-Aula 02 de c++
+# Aula 02 C++ - Fiap 
